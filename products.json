@@ -1,0 +1,29 @@
+[
+  {
+    "id": "prod-001",
+    "sku": "SKU-001",
+    "title": "Gousto Spaghetti Bolognese",
+    "description": "A delicious classic Italian pasta dish.",
+    "listPrice": "5.99",
+    "isForSale": true,
+    "ageRestricted": false
+  },
+  {
+    "id": "prod-002",
+    "sku": "SKU-002",
+    "title": "Gousto Thai Green Curry",
+    "description": "Aromatic curry with coconut milk and fresh herbs.",
+    "listPrice": "6.49",
+    "isForSale": true,
+    "ageRestricted": false
+  },
+  {
+    "id": "prod-003",
+    "sku": "SKU-003",
+    "title": "Red Wine Sauce",
+    "description": "Rich sauce with a deep wine flavour.",
+    "listPrice": "2.99",
+    "isForSale": true,
+    "ageRestricted": true
+  }
+]
