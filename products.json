@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": "prod-001",
     "sku": "SKU-001",
     "title": "Gousto Spaghetti Bolognese",
@@ -25,3 +26,4 @@
     "isForSale": true,
     "ageRestricted": true
   }
+]
